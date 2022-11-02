@@ -34,6 +34,7 @@ public class Test_Steps {
 		jse = (JavascriptExecutor) driver;
 		driver.get("http://adactinhotelapp.com");
 		driver.manage().window().maximize();
+		System.out.println("Inside HotelApp homepage");
 	}
 
 	@When("User enters username")
