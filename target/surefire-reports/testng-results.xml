@@ -2,10 +2,10 @@
 <testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-31T15:04:25 IST" name="Command line suite" finished-at="2022-10-31T15:04:25 IST" duration-ms="57">
+  <suite started-at="2022-11-02T11:58:05 IST" name="Command line suite" finished-at="2022-11-02T11:58:05 IST" duration-ms="54">
     <groups>
     </groups>
-    <test started-at="2022-10-31T15:04:25 IST" name="Command line test" finished-at="2022-10-31T15:04:25 IST" duration-ms="57">
+    <test started-at="2022-11-02T11:58:05 IST" name="Command line test" finished-at="2022-11-02T11:58:05 IST" duration-ms="54">
     </test> <!-- Command line test -->
   </suite> <!-- Command line suite -->
 </testng-results>
