@@ -44,6 +44,7 @@ public class Test_Steps {
 //		uname.sendKeys("vasuvespag");
 		loginPg = new LoginPage(driver);
 		loginPg.enterUsernameAction("vasuvespag");
+		System.out.println("Username entered");
 	}
 
 	@When("User enters password")
